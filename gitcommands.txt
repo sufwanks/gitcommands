@@ -1,0 +1,4 @@
+git init=>initialisation of git
+git add -A=>adding files to stage gear
+git commit -m"msg"=>adding files to local repo
+git status=>listing all untracked file
